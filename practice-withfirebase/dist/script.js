@@ -2,7 +2,7 @@ function _defineProperty(obj, key, value) {if (key in obj) {Object.definePropert
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyAisuqf27BcD7sP7wWIGgtEK8nzuqgwuNA",
+  apiKey: "api key via firebase",
   authDomain: "fir-email-list.firebaseapp.com",
   databaseURL: "https://fir-email-list.firebaseio.com",
   projectId: "fir-email-list",
